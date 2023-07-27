@@ -5,6 +5,6 @@ This project is a sprint challenge from the 4th Unit at BloomTech. In this proje
 * Designed and created a web API to manage the following resources: 'projects and 'actions'
 * Was successful in getting all my tests to pass meeting MVP
 
-**In this project I used the following skills**: Node.JS | Express | Server Side Routing, Express Middleware and Deployment of an API to Heroku
+**In this project I used the following skills**: Node.JS | Express | Server Side Routing, Express Middleware  
  
  
